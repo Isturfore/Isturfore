@@ -26,4 +26,4 @@
 
 ## Connect with me
 
-<p align="center">Isturfore</a> Email: darkiyt60@gmail.com</p>
+<p align="center"></a> Email: darkiyt60@gmail.com</p>
