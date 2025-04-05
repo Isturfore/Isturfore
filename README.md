@@ -26,4 +26,4 @@
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">Isturfore</a> Email: darkiyt60@gmail.com</p>
+<p align="center">Isturfore</a> Email: darkiyt60@gmail.com</p>
