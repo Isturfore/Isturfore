@@ -2,7 +2,7 @@
 
 🚀Hi everyone! I'm Timofey, 16 y.o. enthusiast in C++. My code is not the best you've ever seen, but hopefully not the worst either.
 
-![Alt Text](https://tenor.com/ru/view/shadow-fight2-gif-21940498)
+![alt-text](https://tenor.com/ru/view/shadow-fight2-gif-21940498)
 
 🔥 What I Do:
 
