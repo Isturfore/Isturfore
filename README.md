@@ -1,6 +1,6 @@
 ## About Me
 
-🚀Hi everyone! I'm Timofey, 16 y.o. enthusiast in C++. 
+🚀Hi everyone! I'm Timofey, 16 y.o. enthusiast in C++.<br />
 My code is not the best you've ever seen, but hopefully not the worst either.
 
 ![alt-text](https://media1.tenor.com/m/ZW_oOFM7v8AAAAAd/shadow-fight2.gif)
