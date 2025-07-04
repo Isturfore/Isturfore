@@ -8,7 +8,7 @@ My code is not the best you've ever seen, but hopefully not the worst either.
 🔥 What I Do:
 
 🧠 AI Exploration – I'm experimenting with instructions for DeepSeek and other AI.  
-📚 Learning – C++, OOP, Multithreading and later I'll learn python for AI, libraries for both and UE.  
+📚 Learning – I'm learning C++, and I want to learn some assembly language and Python.
 ⚡ Projects – Writing code that (mostly) works.
 
 "If it doesn’t work, it’s not a bug—it’s an undocumented feature. (Working on that.)"
