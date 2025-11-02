@@ -7,8 +7,8 @@ My code is not the best you've ever seen, but hopefully not the worst either.
 
 🔥 What I Do:
 
-🧠 AI Exploration – I'm experimenting with instructions for DeepSeek and other AI.  
-📚 Learning – I'm learning C++, and I want to learn some assembly language and Python.  
+🧠 AI Exploration – I'm experimenting with instructions for AI and starting learn ML models.  
+📚 Learning – I'm learning C++, Python and I want to learn some Rust language.  
 ⚡ Projects – Writing code that (mostly) works.
 
 "If it doesn’t work, it’s not a bug—it’s an undocumented feature. (Working on that.)"
